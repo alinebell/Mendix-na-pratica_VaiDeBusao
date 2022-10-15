@@ -1,4 +1,4 @@
-# Mendix-na-pratica_VaiDeBusao
+# Mendix na pratica - Projeto VaiDeBusao
 Formação oferecida pela TrueChange. Aplicação feita durante os dias da oficina. 
 
 Curso Mendix na Prática 8 edição especial para Mulheres by TrueChange, ministrado
