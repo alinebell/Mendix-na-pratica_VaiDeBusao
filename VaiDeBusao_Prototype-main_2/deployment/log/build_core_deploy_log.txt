@@ -1,0 +1,10 @@
+Buildfile: C:\Users\Aline\Documents\Mendix\VaiDeBusao_Prototype-main_2\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 46 files to C:\Users\Aline\Documents\Mendix\VaiDeBusao_Prototype-main_2\deployment
+     [copy] Copying 5 files to C:\Users\Aline\Documents\Mendix\VaiDeBusao_Prototype-main_2\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+

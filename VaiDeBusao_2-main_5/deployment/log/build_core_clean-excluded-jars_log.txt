@@ -1,0 +1,8 @@
+Buildfile: C:\Users\Aline\Documents\Mendix\VaiDeBusao_2-main_5\deployment\build_core.xml
+
+clean-excluded-jars:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

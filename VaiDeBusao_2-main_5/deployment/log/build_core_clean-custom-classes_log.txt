@@ -1,0 +1,8 @@
+Buildfile: C:\Users\Aline\Documents\Mendix\VaiDeBusao_2-main_5\deployment\build_core.xml
+
+clean-custom-classes:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
